@@ -1,0 +1,37 @@
+.heading
+{
+    font-size: 23px;
+    box-shadow:5px 5px 5px rgb(255, 0, 0);
+    margin: 0px;
+    width:100%;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Indie Flower', cursive;
+
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+.footer
+{
+    background-color: lightcoral;
+    color: black;
+    bottom: 0;
+    position: fixed;
+    text-align:center;
+    width:100%;
+    line-height:4;
+    font-weight: bolder;
+    font-family: serif;
+
+
+}
+
+canvas
+{
+border : 5px solid blueviolet;
+border-radius:20px;
+box-shadow:5px 5px 5px purple;
+}
